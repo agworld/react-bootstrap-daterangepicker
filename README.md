@@ -1,3 +1,5 @@
+# Remove me and use the original instead
+
 # react-bootstrap-daterangepicker
 
 [![NPM version](https://badge.fury.io/js/react-bootstrap-daterangepicker.svg)](http://badge.fury.io/js/react-bootstrap-daterangepicker)
